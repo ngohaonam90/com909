@@ -228,6 +228,8 @@ if (!localStorage.getItem('blogs') || JSON.parse(localStorage.getItem('blogs')).
     localStorage.setItem('blogs', JSON.stringify(defaultBlogs));
 }
 
+
+
 // Đăng ký các module mở rộng cho Quill
 if (window.Quill && window.Quill.imports && window.Quill.imports['modules/imageResize']) {
     Quill.register('modules/imageResize', window.Quill.imports['modules/imageResize']);
@@ -433,7 +435,7 @@ if (window.location.pathname.includes('blog.html')) {
         $('#side-blogs').html(sideBlogs);
 
         // Danh sách bài viết còn lại
-        let listBlogs = blogs.slice(6).map(blog => `
+        let listBlogs = blogs.map(blog => `
             <div class="card mb-3 shadow-sm">
                 <div class="row g-0">
                     <div class="col-md-3">
@@ -454,7 +456,7 @@ if (window.location.pathname.includes('blog.html')) {
                 </div>
             </div>
         `).join('');
-        $('#list-blogs').html(listBlogs);
+        $('#blog-list').html(listBlogs);
     });
 }
 
