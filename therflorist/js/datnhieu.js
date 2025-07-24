@@ -63,22 +63,6 @@ $(document).ready(function () {
   discount: "169.000đ",    
   img: "../img/hoatuoi/muoitam.jpg",
   desc: "Sự hòa quyện giữa Cẩm Tú Cầu và Hoa Hồng tạo nên bó hoa vừa lãng mạn, vừa ấm áp. Màu sắc nhẹ nhàng, thiết kế hài hòa giúp bó hoa phù hợp trong nhiều dịp: sinh nhật, tốt nghiệp, lễ cưới hoặc để thể hiện lời cảm ơn chân thành."
-},
-{
-  id: "hoadongtienbaba",
-  name: "Hoa Đồng Tiền Ba Ba",
-  price: "50.000đ",       
-  discount: "39.000đ",    
-  img: "../img/hoatuoi/muoichin.jpg",
-  desc: "Hoa Đồng Tiền Ba Ba là lựa chọn tiết kiệm nhưng vẫn mang lại hiệu ứng thị giác bắt mắt. Với 3 bông hoa tươi sáng, bó hoa nhỏ này thích hợp để mix thêm cùng các loại hoa khác hoặc tặng như lời chúc mừng đơn giản, tinh tế và đầy thiện ý."
-},
-{
-  id: "tucau",
-  name: "Tú Cầu size Vừa",
-  price: "120.000đ",       
-  discount: "99.000đ",    
-  img: "../img/hoatuoi/haimuoi.jpg",
-  desc: "Tú Cầu size Vừa là biểu tượng của sự gắn kết và yêu thương chân thành. Kích cỡ vừa phải, dễ mix cùng nhiều loại hoa khác để tạo nên bó hoa trang nhã và giàu ý nghĩa. Phù hợp để tặng mẹ, người yêu, bạn thân hoặc dùng trong các buổi lễ trang trọng."
 }
 
     ];
