@@ -63,22 +63,6 @@ $(document).ready(function () {
   discount: "99.000đ",    
   img: "../img/hoatuoi/tam.jpg",
   desc: "Cát Tường Xanh đại diện cho sự lạc quan, hy vọng và bình an. Với sắc xanh mát dịu, bó hoa mang đến cảm giác thư thái và dễ chịu cho người nhìn. Đây là lựa chọn hoàn hảo để động viên, khích lệ tinh thần hoặc đơn giản là gửi lời chúc một ngày mới thật nhiều năng lượng tích cực."
-},
-{
-  id: "hoamix",
-  name: "Hoa Mix",
-  price: "120.000đ",       
-  discount: "99.000đ",    
-  img: "../img/hoatuoi/chin.jpg",
-  desc: "Hoa Mix là sự pha trộn đầy ngẫu hứng giữa nhiều loại hoa rực rỡ sắc màu, mang đến vẻ đẹp sinh động và vui tươi. Với thông điệp về sự minh bạch, rõ ràng và tự tin trong tình cảm cũng như trong cuộc sống, bó hoa phù hợp để dành tặng những người luôn sống thật với bản thân và truyền cảm hứng cho người khác."
-},
-{
-  id: "caykemmix",
-  name: "Cây Kem Mix",
-  price: "109.000đ",       
-  discount: "89.000đ",    
-  img: "../img/hoatuoi/muoi.jpg",
-  desc: "Cây Kem Mix là sản phẩm dễ thương và mới lạ, lấy cảm hứng từ chiếc kem ngọt ngào ngày hè. Màu sắc pastel nhẹ nhàng cùng cách phối hoa khéo léo khiến bó hoa trở thành món quà tuyệt vời để thể hiện sự đáng yêu, hồn nhiên. Rất phù hợp để tặng bạn gái, người yêu hoặc đơn giản là dành cho bản thân như một món quà nhỏ xinh."
 }
 
     ];
