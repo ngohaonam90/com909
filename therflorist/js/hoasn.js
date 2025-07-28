@@ -16,7 +16,7 @@ $(document).ready(function () {
   name: "Hướng Dương Mix Đồng Tiền",
   price: "120.000đ",       
   discount: "99.000đ",    
-  img: "../img/hoatuoi/haihai.jpg",
+  img: "../img/hoatuoi/haihai.JPG",
   desc: "Sự kết hợp giữa Hướng Dương và Đồng Tiền tạo nên bó hoa vừa rực rỡ, vừa thân thiện. Tượng trưng cho niềm vui, may mắn và khởi đầu tươi sáng, đây là món quà lý tưởng cho dịp khai trương, sinh nhật hoặc những buổi gặp mặt quan trọng."
 },
 {
