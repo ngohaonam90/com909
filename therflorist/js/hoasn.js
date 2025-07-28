@@ -8,7 +8,7 @@ $(document).ready(function () {
   name: "Hoa Hướng Dương",
   price: "180.000đ",       
   discount: "169.000đ",    
-  img: "../img/hoatuoi/haimot.jpg",
+  img: "../img/hoatuoi/haimot.JPG",
   desc: "Hoa Hướng Dương – loài hoa luôn hướng về ánh sáng, tượng trưng cho sự mạnh mẽ, kiên định và hy vọng. Với sắc vàng rực rỡ, bó hoa này phù hợp để gửi gắm thông điệp tích cực, lạc quan đến người thân, bạn bè hoặc đồng nghiệp. Có thể mix thêm để tạo sự nổi bật và cá tính."
 },
 {
@@ -16,7 +16,7 @@ $(document).ready(function () {
   name: "Hướng Dương Mix Đồng Tiền",
   price: "120.000đ",       
   discount: "99.000đ",    
-  img: "../img/hoatuoi/haihai.jpg",
+  img: "../img/hoatuoi/haihai.JPG",
   desc: "Sự kết hợp giữa Hướng Dương và Đồng Tiền tạo nên bó hoa vừa rực rỡ, vừa thân thiện. Tượng trưng cho niềm vui, may mắn và khởi đầu tươi sáng, đây là món quà lý tưởng cho dịp khai trương, sinh nhật hoặc những buổi gặp mặt quan trọng."
 },
 {
@@ -24,7 +24,7 @@ $(document).ready(function () {
   name: "Cây Kem Hoa Hướng Dương",
   price: "60.000đ",       
   discount: "49.000đ",    
-  img: "../img/hoatuoi/haiba.jpg",
+  img: "../img/hoatuoi/haiba.JPG",
   desc: "Cây Kem Hoa Hướng Dương là lựa chọn dễ thương, nhỏ gọn nhưng vẫn đủ nổi bật với sắc vàng tươi tắn. Phù hợp để làm quà tặng ngẫu hứng cho bạn bè, đồng nghiệp hoặc người thương. Có thể kết hợp thêm hoa giấy hoặc nơ để tăng tính nghệ thuật."
 },
 {
@@ -32,7 +32,7 @@ $(document).ready(function () {
   name: "Cây Kem Hoa Cúc Họa Mi",
   price: "120.000đ",       
   discount: "99.000đ",    
-  img: "../img/hoatuoi/haibon.jpg",
+  img: "../img/hoatuoi/haibon.JPG",
   desc: "Cúc Họa Mi mang vẻ đẹp nhẹ nhàng, mộc mạc và thuần khiết. Khi được biến tấu dưới dạng cây kem, bó hoa trở nên sinh động, đáng yêu và mới lạ. Rất thích hợp để tặng những cô nàng yêu phong cách vintage, thơ mộng hay những ai yêu thiên nhiên giản dị."
 },
 {
@@ -40,7 +40,7 @@ $(document).ready(function () {
   name: "Tú Cầu Mix Hoa Hồng",
   price: "150.000đ",       
   discount: "139.000đ",    
-  img: "../img/hoatuoi/hainam.jpg",
+  img: "../img/hoatuoi/hainam.JPG",
   desc: "Sự hòa quyện giữa nét lãng mạn của Hoa Hồng và vẻ nhẹ nhàng của Cẩm Tú Cầu tạo nên bó hoa tinh tế, sang trọng. Thích hợp cho các dịp như sinh nhật, kỷ niệm hoặc chúc mừng thành công. Bó hoa mang thông điệp yêu thương, chân thành và sâu sắc."
 },
 {
@@ -48,7 +48,7 @@ $(document).ready(function () {
   name: "Hoa Hồng Loang",
   price: "180.000đ",       
   discount: "169.000đ",    
-  img: "../img/hoatuoi/haisau.jpg",
+  img: "../img/hoatuoi/haisau.JPG",
   desc: "Hoa Hồng Loang nổi bật với màu sắc độc đáo, lạ mắt, tượng trưng cho sự phá cách, cá tính và gu thẩm mỹ riêng biệt. Bó hoa này dành riêng cho những ai yêu thích sự mới mẻ, độc đáo, rất phù hợp để thể hiện cá tính hoặc dành tặng người đặc biệt."
 },
 {
@@ -56,7 +56,7 @@ $(document).ready(function () {
   name: "Hoa Bi",
   price: "90.000đ",       
   discount: "79.000đ",    
-  img: "../img/hoatuoi/haibay.jpg",
+  img: "../img/hoatuoi/haibay.JPG",
   desc: "Hoa Bi tuy nhỏ nhắn nhưng góp phần quan trọng tạo nên tổng thể hài hòa, mềm mại cho bất kỳ bó hoa nào. Tượng trưng cho sự khiêm nhường, nhẹ nhàng và tinh tế, Hoa Bi thường được dùng làm hoa điểm hoặc tặng riêng như một lời chúc nhẹ nhàng, sâu sắc."
 },
 {
@@ -64,7 +64,7 @@ $(document).ready(function () {
   name: "Hướng Dương Cô Đơn",
   price: "40.000đ",       
   discount: "29.000đ",    
-  img: "../img/hoatuoi/haitam.jpg",
+  img: "../img/hoatuoi/haitam.JPG",
   desc: "Hướng Dương Cô Đơn – chỉ một cành hoa nhưng mang ý nghĩa sâu sắc về sự mạnh mẽ và độc lập. Đây là món quà nhỏ mang lại cảm giác ấm áp, thường được chọn để gửi gắm những thông điệp tinh tế hoặc đơn giản là để tô điểm bàn học, bàn làm việc."
 },
 {
@@ -72,7 +72,7 @@ $(document).ready(function () {
   name: "Hoa Hồng Mix Bi",
   price: "120.000đ",       
   discount: "99.000đ",    
-  img: "../img/hoatuoi/haichin.jpg",
+  img: "../img/hoatuoi/haichin.JPG",
   desc: "Sự kết hợp giữa Hoa Hồng và Hoa Bi mang đến vẻ đẹp hài hòa, cân đối giữa sự nổi bật và nhẹ nhàng. Bó hoa này phù hợp để tặng trong nhiều dịp – từ sinh nhật, hẹn hò đến các buổi lễ trang trọng – như một cách thể hiện tình cảm sâu sắc và trân trọng."
 },
 {
@@ -80,7 +80,7 @@ $(document).ready(function () {
   name: "Cẩm Tú Cầu Tròn",
   price: "120.000đ",       
   discount: "99.000đ",    
-  img: "../img/hoatuoi/bamuoi.jpg",
+  img: "../img/hoatuoi/bamuoi.JPG",
   desc: "Cẩm Tú Cầu Tròn mang vẻ đẹp cân đối và mềm mại, tượng trưng cho sự gắn bó và chân thành. Màu sắc tươi sáng cùng hình dáng tròn đầy giúp bó hoa trở thành lựa chọn lý tưởng cho các dịp lễ, sự kiện hoặc đơn giản là món quà thể hiện sự quan tâm, sẻ chia."
 }
 
