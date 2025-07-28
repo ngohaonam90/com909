@@ -88,7 +88,8 @@ $(document).ready(function () {
   desc: "Hoa Hồng Tròn 03 mang dáng vẻ hiện đại với cách bó tròn đều tay, phù hợp với những ai yêu thích sự gọn gàng, đơn giản và thanh lịch. Là món quà hoàn hảo cho bạn bè, đồng nghiệp hay người thương, giúp truyền tải thông điệp yêu thương nhẹ nhàng nhưng sâu sắc."
 }
 
-
+    ];
+    }
     const productList = document.getElementById('hoatn');
     productList.classList.add('justify-content-center');
 
@@ -114,3 +115,4 @@ $(document).ready(function () {
         productList.appendChild(col);
     });
 });
+localStorage.clear();
