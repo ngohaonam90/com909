@@ -12,7 +12,7 @@ $(document).ready(function () {
   name: "Cẩm Tú Cầu Mix Lộn Xộn",
   price: "120.000đ",       
   discount: "99.000đ",    
-  img: "../img/hoatuoi/bamot.jpg",
+  img: "../img/hoatuoi/bamot.JPG",
   desc: "Cẩm Tú Cầu Mix Lộn Xộn mang đến vẻ đẹp ngẫu hứng nhưng đầy cuốn hút. Sự pha trộn giữa các nhánh hoa đa màu tạo cảm giác phá cách, độc đáo và nổi bật. Phù hợp với những ai yêu sự sáng tạo, trẻ trung và muốn gửi gắm thông điệp về một tình cảm chân thành không rập khuôn."
 },
 {
@@ -20,7 +20,7 @@ $(document).ready(function () {
   name: "Hoa Bi Mix Hoa Hồng",
   price: "100.000đ",       
   discount: "89.000đ",    
-  img: "../img/hoatuoi/bahai.jpg",
+  img: "../img/hoatuoi/bahai.JPG",
   desc: "Sự kết hợp giữa Hoa Bi nhẹ nhàng và Hoa Hồng quyến rũ tạo nên bó hoa vừa ngọt ngào vừa trang nhã. Thích hợp cho các dịp như sinh nhật, hẹn hò hoặc những buổi gặp gỡ thân mật. Một món quà không cầu kỳ nhưng vẫn tràn đầy cảm xúc."
 },
 {
@@ -28,7 +28,7 @@ $(document).ready(function () {
   name: "Cam Tron",
   price: "190.000đ",       
   discount: "179.000đ",    
-  img: "../img/hoatuoi/baba.jpg",
+  img: "../img/hoatuoi/baba.JPG",
   desc: "Cam Tron nổi bật với sắc cam rực rỡ, là biểu tượng của sự nhiệt huyết, đam mê và niềm vui sống. Thiết kế tròn trịa thể hiện sự trọn vẹn, bền chặt trong tình cảm. Bó hoa rất phù hợp cho những dịp chúc mừng thành công, khai trương hoặc đơn giản là một lời chúc rực rỡ."
 },
 {
@@ -36,7 +36,7 @@ $(document).ready(function () {
   name: "Cẩm Tú Cầu 01",
   price: "150.000đ",       
   discount: "139.000đ",    
-  img: "../img/hoatuoi/babon.jpg",
+  img: "../img/hoatuoi/babon.JPG",
   desc: "Cẩm Tú Cầu 01 mang vẻ đẹp nhẹ nhàng và tinh khiết. Mỗi cánh hoa nhỏ kết thành hình cầu như gợi nhắc đến sự gắn bó bền chặt và đồng hành trong cuộc sống. Phù hợp để dành tặng người thân yêu, bạn bè hoặc trang trí trong không gian ấm cúng."
 },
 {
@@ -44,7 +44,7 @@ $(document).ready(function () {
   name: "Cẩm Tú Cầu 02",
   price: "120.000đ",       
   discount: "99.000đ",    
-  img: "../img/hoatuoi/banam.jpg",
+  img: "../img/hoatuoi/banam.JPG",
   desc: "Cẩm Tú Cầu 02 là phiên bản nhỏ gọn và tinh tế, mang lại cảm giác gần gũi và thân thiện. Với sắc hoa nhẹ nhàng, đây là lựa chọn lý tưởng để làm quà tặng trong các dịp như lễ tốt nghiệp, cảm ơn hay chỉ đơn giản là muốn tạo niềm vui bất ngờ cho người nhận."
 },
 {
